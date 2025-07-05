@@ -1,1 +1,5 @@
+#not commiting my api key again
 .env
+
+#so I don't clutter the source with the outputs
+.png
