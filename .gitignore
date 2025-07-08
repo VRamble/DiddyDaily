@@ -1,5 +1,12 @@
 #not commiting my api key again
-.env
+*.env
 
 #so I don't clutter the source with the outputs
-.png
+*.png
+
+#rather not temp the license holder for the site I downloaded the font from
+*.ttf
+
+#don't clutter up the repository with unnecessary files
+__pycache__/
+*.pyc
